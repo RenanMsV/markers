@@ -34,7 +34,7 @@ for x in range(0, len(names)):
 	data = response.read()
 	js = json.loads(data.decode('utf8'))
 	elev = js['results'][0]['elevation']
-	print(js);
+	print(js)
 	print(elev)
 
 	filename = "output/{}.xml".format(names[x])
