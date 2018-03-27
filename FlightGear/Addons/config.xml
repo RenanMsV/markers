@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<sim>
+		<addons>
+			<markers>
+		  		<name>markers</name>
+		  		<version type= "double">0.3</version>
+		  		<authors>BR-RVD</authors>
+		  		<description>Use markers to locate yourself!</description>
+		  		<changelog>#first_release</changelog>
+		  	</markers>
+	  	</addons>
+	</sim>
+</PropertyList>
