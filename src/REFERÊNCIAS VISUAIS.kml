@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>REFERÊNCIAS VISUAIS</name>
+    <Style id="icon-503-62AF44-normal">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-62AF44-highlight">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-62AF44">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-62AF44-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-62AF44-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-62AF44-nodesc-normal">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-62AF44-nodesc-highlight">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-62AF44-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-62AF44-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-62AF44-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Abril</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.7002845,-23.506897,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aeroporto Internacional de Guarulhos</name>
+      <description>Referência Visual - Rota CUMBICA</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.4781038,-23.4345449,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aldeia</name>
+      <description><![CDATA[Referência Visual - Rota RODOANEL.<br>PROIBIDO SOBREVOO.]]></description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.8312085,-23.5697843,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alphaville</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.8514538,-23.4997738,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arena Barueri</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.8994009,-23.513105,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arena Corinthians</name>
+      <description>Estádio do Itaqueirão - Referência visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.4742279,-23.5451434,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Autódromo de Interlagos</name>
+      <styleUrl>#icon-503-62AF44-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6971731,-23.7004344,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Av. Henrique Schaumann</name>
+      <description>Referência Visual - Rota CONGONHAS</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6802497,-23.5612529,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Av. Juntas Provisórias</name>
+      <description>Referência Visual - Rota MARTE.</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5974353,-23.5952075,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Av. Morumbi</name>
+      <description>Referência Visual - Rota MORUMBI.</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.7093933,-23.6170737,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Av. Paulo VI</name>
+      <description>Referência Visual - Rota CONGONHAS</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.679652,-23.5538702,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Av. Rubem Berta</name>
+      <description>Referência Visual - Rota CONGONHAS</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6510692,-23.6002041,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Av. Sumaré</name>
+      <description>Referência Visual - Rota CONGONHAS</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6751886,-23.5394515,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barragem do Ecológico</name>
+      <description>Referência Visual - Rota ECOLÓGICO</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5421066,-23.5020294,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Caixa D'Água de Osasco]]></name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.7991695,-23.5493825,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carrefour Anchieta</name>
+      <description>Referência Visual - Rota ANCHIETA</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5988796,-23.6314846,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carrefour Santo André</name>
+      <description>Referência Visual - Rota FERROVIA.</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5069709,-23.6609138,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cemitério da Quarta Parada</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5815806,-23.5469532,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cemitério São Paulo</name>
+      <description>Referência Visual - Rota CONGONHASOBS: Esta referência deve ficar à direita da Rota.</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6847154,-23.5580987,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro Empresarial</name>
+      <description>Referência Visual -  Rotas: PINHEIROS, GUARAPIRANGA.</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.7298471,-23.649333,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CEU Formosa</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5238756,-23.5801585,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cidade de Cajamar</name>
+      <description>Referência Visual - Rota ANHANGUERA SUL</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.87727,-23.3567874,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cidade de Campinas</name>
+      <description>Referência Visual - Rota ANHANGUERA NORTE</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -47.0716095,-22.9206108,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cidade Tiradentes</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.396637,-23.5974192,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clube São Miguel</name>
+      <description>Referência Visual - Rota SUZANO.23º29’52”S/046º25’04”W</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.4183678,-23.496982,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CTI Itaú</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.615634,-23.5577275,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edifício Banespa</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6340205,-23.5458246,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edifício da Globo</name>
+      <description>Referência Visual - Rota ESPRAIADA</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6983566,-23.6151075,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estação Calmon Viana</name>
+      <description><![CDATA[Linha Férrea.<br>Referência Visual - Rota SUZANO.]]></description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.3318608,-23.5257639,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estação de Tratamento de Esgotos ABC</name>
+      <description>Referência Visual - Rota FERROVIA.</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5847624,-23.6132005,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estação Ferroviária de Jundiaí</name>
+      <description>Referência Visual - Rota Jundiaí</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.8722248,-23.1952806,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estádio do Morumbi</name>
+      <description>Referência Visual - Rota ESTÁDIO</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.7201445,-23.600474,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estádio do Pacaembu</name>
+      <description>Estádio Municipal Paulo Machado de Carvalho</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6652713,-23.5486967,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estádio do Parque Antártica</name>
+      <description>NÃO SOBREVOAR!</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6786574,-23.5274506,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estrada de Ferro</name>
+      <description><![CDATA[Referência Visual - Rota MARTE.<br>A referencia visual "Estrada de Ferro" deverá ser mantida à esquerda do piloto.]]></description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6832494,-23.5222756,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estação de Tratamento da Sabesp</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.8456173,-23.513351,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estância Alto da Serra</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5086997,-23.7925605,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eurofarma</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.9627547,-23.5177386,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Expresso Tiradentes</name>
+      <description>Referência Visual - Rota MARTE</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5912287,-23.5874516,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Extra Anchieta</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5745055,-23.6689473,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Extra Taboão</name>
+      <description><![CDATA[Hipermercado Extra.<br>Referência Visual - Rota Morumbi]]></description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.7532694,-23.6100031,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fábrica da General Motors</name>
+      <description>Referência Visual - Rota FERROVIA.</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5579212,-23.6157019,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fábrica da GM</name>
+      <description>Referência Visual - Rota SENNA</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.2575107,-23.4366216,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fábrica da Mercedes Benz</name>
+      <description>Referência Visual - Rota ANCHIETA</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5766046,-23.6626391,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ferradura da 23</name>
+      <description><![CDATA[Alça de acesso/retorno da Av. 23 de Maio.<br>Referência Visual]]></description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6368127,-23.552638,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ginásio do Ibirapeura</name>
+      <description>Referência Visual - Rota CONGONHAS</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6560426,-23.5778842,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Golf Clube</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.7006063,-23.6650831,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Helicidade (SIBH)</name>
+      <description><![CDATA[Heliporto Helicidade - FCA 130,37 MHz.<br>Referência Visual - Rota EXTERNO.]]></description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.7374581,-23.5469656,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Helipamonha</name>
+      <description><![CDATA[Referência Visual - Heliponto do restaurante Rei da Pamonha na Rod. dos Bandeirantes.<br><br>OBS: Antes de pousar, solicitar no telefone (11)39415440]]></description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.7570266,-23.4449837,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Helipark (SIAV)</name>
+      <description>Heliporto Helipark - FCA 131,32 MHz.</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.8306988,-23.5642969,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>IROHY - SDIH</name>
+      <description><![CDATA[Fazenda IROHY - Aeroclube de Biritiba Mirim<br>Referência Visual]]></description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.0722828,-23.5632201,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jóquei Clube</name>
+      <description><![CDATA[Referência Visual - Rota Pinheiros.<br>PROIBIDO O SOBREVOO.]]></description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6976515,-23.5804412,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lagoa de Carapicuíba</name>
+      <description>Referência Visual - Rotas Castelo e Rodoanel.</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.8263483,-23.5182501,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lagoa de Jundiaí</name>
+      <description>Referência Visual - Rota JUNDIAÍ</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.8963432,-23.1491993,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Linha de alta tensão</name>
+      <description>Referência Visual - Rota OESTE.</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.753991,-23.5723686,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Museu do Ipiranga</name>
+      <description>(Parque da idependência) Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6096821,-23.5856108,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Obelisco</name>
+      <description>Referência Visual - Rota CONGONHAS</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6547661,-23.5847379,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palácio dos Bandeirantes</name>
+      <description><![CDATA[Referência Visual<br>NOTA: Proibido o sobrevoo.]]></description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.7122514,-23.6013145,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Palmeiras</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.3282728,-23.6448387,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Panelão</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6246891,-23.5287563,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parque da Aclimação</name>
+      <description>Referência Visual - Rota ECOLÓGICO</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6289436,-23.5744232,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parque Dom Pedro</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6276288,-23.5458516,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parque Ecológico do Tietê</name>
+      <description>Referência Visual - Rota ECOLÓGICO</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5175589,-23.4871132,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pedágio Anchieta</name>
+      <description>Referência Visual - Rota ANCHIETA</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5196028,-23.7894214,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pedágio Bandeirantes</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.8232584,-23.3228977,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pedágio da Castelo</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.801393,-23.5117178,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pedágio de Itaquá</name>
+      <description>Referência Visual (Pedágio de Itaquaquecetuba) - Rota SENNA.</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.3689679,-23.4662704,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Perus</name>
+      <description>Referência Visual (Subdistrito de Perus)</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.7528343,-23.411193,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pico do Jaraguá</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.7667389,-23.458601,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pista da Guarapiranga</name>
+      <description>Referência Visual - Área de treinamento para aeronaves.</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.7503935,-23.7192657,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Polícia do Exército</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.7937541,-23.5078612,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ponte do Tatuapé</name>
+      <description>Referência Visual - Rota ECOLÓGICO</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5851511,-23.5283116,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ponte Estaiada</name>
+      <description>Referência Visual - Rota ESPRAIADA e PINHEIROS. ATENÇÃO obstáculo chega aos 2830 ft de altitude.</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6992084,-23.6130775,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Praça da Sé</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6339481,-23.5503759,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Represa Bilings</name>
+      <description>Referência Visual - Rota ANCHIETA</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5601904,-23.7814695,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Represa Igaratá</name>
+      <description>Referência Visual - Rota IGARATÁ.</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.1626625,-23.2395716,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Represa de Suzano</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.2800789,-23.5800356,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rodovia Fernão Dias</name>
+      <description>Referência Visual - Rota CUMBICA</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5517915,-23.3517931,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santa Marina</name>
+      <description><![CDATA[Fábrica de vidro na Av. Santa Marina.<br>Referência Visual]]></description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6920233,-23.5204931,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SESC Itaquera</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.4715672,-23.5819628,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shopping Anália Franco</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5604448,-23.5612335,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shopping Aricanduva</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5034533,-23.5622956,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shopping Cerâmica</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5799499,-23.6259575,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shopping Continental</name>
+      <description>Referência Visual - Rota ESTÁDIO</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.7574074,-23.5477625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shopping D</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6240883,-23.5217523,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shopping Tatuapé</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5764093,-23.5414845,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Templo de Salomão</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6065145,-23.5380321,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Través da Abril</name>
+      <description>Posição utilizada por aviões</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6988897,-23.5016235,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Túnel Maria Maluf</name>
+      <description>Referência Visual - Rota TANCREDO.</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6203575,-23.6275577,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Túnel Parque Imperial</name>
+      <description>Referência Visual - Rota RODOANEL</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.8053334,-23.4865224,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Usina Piratininga</name>
+      <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/2h5KADoaSAxj9hGIWwg7DAqfHZMQanjj6__m1uC40_brLGkE-OmZKdFh0_oosCUHG_AMtzTfQNvFAs-2MbIeFd3M9717lQH2yfgbfPmS7kHdNKni_RcbVJUdk84NjfXC9OcVL0mm4D_y1jSZDmzasnF1YNaoTt2iepGtiWIY0JF9nnrEBia5rxLnVw" height="200" width="auto" /><br><br>Usina Termoelétrica Piratininga<br>Referência Visual - Rotas PINHEIROS e FÁBRICA. ]]></description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value>https://lh4.googleusercontent.com/proxy/2h5KADoaSAxj9hGIWwg7DAqfHZMQanjj6__m1uC40_brLGkE-OmZKdFh0_oosCUHG_AMtzTfQNvFAs-2MbIeFd3M9717lQH2yfgbfPmS7kHdNKni_RcbVJUdk84NjfXC9OcVL0mm4D_y1jSZDmzasnF1YNaoTt2iepGtiWIY0JF9nnrEBia5rxLnVw</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -46.6779765,-23.6999654,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Usina da Traição</name>
+      <description>Referência Visual - Rota PINHEIROS</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.6941883,-23.5953033,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Viaduto Grande São Paulo</name>
+      <description>Referência Visual - Rota MARTE</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5963089,-23.5874468,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Viaduto Luís Eduardo Magalhães</name>
+      <description>Referência Visual - Rota ESPRAIADA</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.669105,-23.6336244,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Viaduto Aricanduva</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.5482783,-23.534796,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zero da Bandeirantes</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.7210448,-23.507871,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zero da Castelo</name>
+      <description>Referência Visual</description>
+      <styleUrl>#icon-503-62AF44</styleUrl>
+      <Point>
+        <coordinates>
+          -46.7735571,-23.5207243,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
