@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <name>markers</name>
+  <layout>vbox</layout>
+  <width>180</width>
+  <resizable>false</resizable>
+
+  <group>
+    <layout>hbox</layout>
+    <text>
+      <halign>right</halign>
+      <label>Markers</label>
+    </text>
+
+    <button>
+      <halign>right</halign>
+      <pref-width>16</pref-width>
+      <pref-height>16</pref-height>
+      <legend>X</legend>
+      <keynum>27</keynum>
+      <border>2</border>
+      <binding>
+        <command>dialog-close</command>
+      </binding>
+    </button>
+  </group>
+
+  <hrule/>
+
+  <checkbox>
+    <label>Enable/Disable</label>
+    <live>true</live>
+    <halign>left</halign>
+    <property>sim/addons/markers/enable</property>
+    <binding>
+      <command>dialog-apply</command>
+    </binding>
+    <!--binding>
+        <command>nasal</command>
+        <script>call(globals[getprop('/sim/addons/markers/namespace')]["place_all_markers"]);</script>
+    </binding-->
+  </checkbox>
+
+  <hrule/>
+
+  <input>
+    <halign>left</halign>
+    <width>160</width>
+    <height>25</height>
+    <label>Marker Name</label>
+    <property>sim/addons/markers/manual-input/name</property>
+  </input>
+  <input>
+    <halign>left</halign>
+    <width>160</width>
+    <height>25</height>
+    <label>Latitude:</label>
+    <property>sim/addons/markers/manual-input/lat</property>
+  </input>
+  <input>
+    <halign>left</halign>
+    <width>160</width>
+    <height>16</height>
+    <label>Longitude:</label>
+    <property>sim/addons/markers/manual-input/lon</property>
+  </input>
+  <input>
+    <halign>left</halign>
+    <width>160</width>
+    <height>25</height>
+    <label>Elevation:</label>
+    <property>sim/addons/markers/manual-input/elev</property>
+  </input>
+
+  <button>
+    <legend>Place Manual Marker</legend>
+    <binding>
+      <command>dialog-apply</command>
+    </binding>
+  </button>
+
+  <text>
+    <label>http://flightgearbrasil.com.br</label>
+  </text>
+
+</PropertyList>
